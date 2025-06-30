@@ -1,3 +1,16 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "Week1 - Design patterns and principles/11.DependencyInjectionExample/Code",
+        "Week1 - Design patterns and principles/10.MVCPatternExample/Code",
+        "Week1 - Design patterns and principles/01.SingletonPatternExample/Code",
+        "Week1 - Algorithms_Data Structures/07.Financial Forecasting/Code",
+        "Week1 - Algorithms_Data Structures/06.Library Management System/Code",
+        "Week1 - Algorithms_Data Structures/05.Task Management System/Code",
+        "Week1 - Algorithms_Data Structures/04.Employee Management System/Code",
+        "Week1 - Algorithms_Data Structures/03.Sorting_Customer_Orders/Code",
+        "Week1 - Algorithms_Data Structures/02.E-commerce Platform Search Function/Code",
+        "Week1 - Algorithms_Data Structures/01.Inventory/Code",
+        "Week3 - Spring Core_Maven/library_management/src/main/java/com/library"
+    ]
 }
